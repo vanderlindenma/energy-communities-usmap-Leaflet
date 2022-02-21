@@ -1,6 +1,4 @@
-markdown: kramdown
-
-# energy_communities_usmap_Leaflet
+# Energy_communities_usmap_Leaflet
  A Leaflet partial replica of the mapbox "Mapping US Energy Communities" from https://www.rff.org/publications/data-tools/mapping-vulnerable-communities/
  
 This map is part of a series of replicas of partial replica using different languages and libraries. See https://github.com/vanderlindenma/energy-communities-usmap for a plotly/shiny replica.
@@ -8,7 +6,10 @@ This map is part of a series of replicas of partial replica using different lang
 Beyond this particular application, the app could serve as a useful template
 for open source interactive maps of U.S. counties using Leaflet.
 
-[![https://usmap-energy-leaflet.herokuapp.com/](screenshot.png)](https://usmap-energy-leaflet.herokuapp.com/){:target="_blank" rel="noopener"}
+[![https://usmap-energy-leaflet.herokuapp.com/](screenshot.png)](https://usmap-energy-leaflet.herokuapp.com/)
+
+This link may not work forever but for now (Feb. 21, 2022), a dynamic version of 
+the app can be found at https://usmap-energy-leaflet.herokuapp.com/.
 
 There are a number of features I did not take the time to replicate from the original. These include:
 
