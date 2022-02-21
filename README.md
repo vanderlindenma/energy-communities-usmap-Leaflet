@@ -1,4 +1,4 @@
-# energy_communities_usmap
+# energy_communities_usmap_Leaflet
  A Leaflet partial replica of the mapbox "Mapping US Energy Communities" from https://www.rff.org/publications/data-tools/mapping-vulnerable-communities/
  
 This map is part of a series of replicas of partial replica using different languages and libraries. See https://github.com/vanderlindenma/energy-communities-usmap for a plotly/shiny replica.
